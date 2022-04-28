@@ -1,2 +1,10 @@
 # Perm1c-AlgebraAbstracta
-a
+
+**Integrantes:**
+
+*   Gabriel Ivan Rodriguez Postigo
+*   Jaime Mateo Gutiérrez Muñoz
+*   Alexander Carpio Mamani
+
+
+Para poder ver y probar el trabajo selecione el archivo "perm1c.ipynb" y luego clickear en "Open in colab" para poder correr el programa.
